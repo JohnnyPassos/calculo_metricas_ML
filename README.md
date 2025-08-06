@@ -27,7 +27,6 @@ Este é um dos desafios de projeto propostos no Bootcamp Machine Learning Traini
   - Matplotlib: Criação dos gráficos
   - Seaborn: Visualização elegante da matriz de confusão (heatmap)
 
----
 
 ## 📂 Estrutura do Projeto
 
@@ -70,9 +69,8 @@ As métricas de avaliação calculadas foram:
 
 A visualização da Matriz de Confusão para o cenário acima é a seguinte:
 
-![Matriz de Confusão](nome_da_sua_imagem.png)
-
-> **Nota:** Para que a imagem apareça corretamente, salve o gráfico gerado (ex: `matriz_confusao.png`) na mesma pasta do projeto no GitHub. Certifique-se de que o nome do arquivo no código corresponde ao nome do arquivo salvo.
+![Matriz de Confusão] 
+<img width="653" height="553" alt="matriz_confusao" src="https://github.com/user-attachments/assets/a40c83ac-6e0b-4a21-b607-05350e72ad70" />
 
 ---
 
