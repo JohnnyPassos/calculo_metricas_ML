@@ -5,7 +5,7 @@ Este projeto consiste na implementação manual em Python das principais métric
 Adicionalmente, o projeto inclui a visualização da Matriz de Confusão utilizando as bibliotecas Matplotlib e Seaborn para uma interpretação mais clara e intuitiva dos resultados.
 
 🚀 Contexto
-Este é um dos desafios de projeto propostos no Bootcamp Machine Learning Training, uma parceria entre a  e a .
+Este é um dos desafios de projeto propostos no Bootcamp Machine Learning Training, uma parceria entre a Digital Innovation One (DIO) e a BairesDev.
 
 🛠️ Tecnologias Utilizadas
 Linguagem: Python 3
@@ -28,7 +28,7 @@ calculo_metricas.ipynb: Notebook contendo todo o processo, desde a definição d
 ▶️ Como Executar
 Clone este repositório para sua máquina local ou baixe o arquivo .ipynb.
 
-Abra o notebook calculo_metricas.ipynb no  ou em um ambiente Jupyter local.
+Abra o notebook calculo_metricas.ipynb no Google Colab ou em um ambiente Jupyter local.
 
 Execute as células de código em ordem sequencial.
 
@@ -44,6 +44,30 @@ Falsos Positivos (FP): 80
 Falsos Negativos (FN): 60
 
 As métricas de avaliação calculadas foram:
+
+Métrica
+
+Resultado
+
+Acurácia
+
+0.659
+
+Sensibilidade (Recall)
+
+0.714
+
+Especificidade
+
+0.600
+
+Precisão
+
+0.652
+
+F1-Score
+
+0.682
 
 Matriz de Confusão
 A visualização da Matriz de Confusão para o cenário acima é a seguinte:
@@ -63,3 +87,6 @@ Conclusão: Baseado nesta análise, o modelo não seria recomendado para um ambi
 
 ✍️ Autor
 Johnny Passos
+
+📄 Licença
+Este projeto está sob a licença MIT.
