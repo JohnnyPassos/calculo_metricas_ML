@@ -69,7 +69,7 @@ As métricas de avaliação calculadas foram:
 
 A visualização da Matriz de Confusão para o cenário acima é a seguinte:
 
-![Matriz de Confusão] 
+ 
 <img width="653" height="553" alt="matriz_confusao" src="https://github.com/user-attachments/assets/a40c83ac-6e0b-4a21-b607-05350e72ad70" />
 
 ---
